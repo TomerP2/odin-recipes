@@ -53,3 +53,30 @@ Content:
             Whisk egg substitute, Cheddar cheese, Parmesan cheese, salt, black pepper, garlic powder, and red pepper flakes together in a bowl.
 
             Heat olive oil in a nonstick skillet over medium heat; cook and stir mushrooms and onion until tender, 4 to 5 minutes. Add spinach; cook until spinach wilts, 3 to 4 minutes. Pour in egg mixture; swirl pan around to evenly distribute egg mixture. Cook until egg is fully cooked and set in the middle, 5 to 10 minutes. Cut into wedges.
+    Burger:
+        Description:
+            Make a juicy burger, easy and tasty!
+        Ingredients:
+            3 tablespoons salted butter, softened
+            4 hamburger buns, split
+            8 slices thick-cut bacon
+            1 ½ pounds lean ground beef
+            2 tablespoons Worcestershire sauce
+            1 tablespoon steak seasoning
+            4 slices Cheddar cheese
+            4 large eggs
+            4 large lettuce leaves
+            ½ red onion, thinly sliced
+            2 avocados - peeled, pitted, and thinly sliced 
+        Steps:
+            Preheat an outdoor grill for medium-high heat and lightly oil the grate. Butter each half of hamburger buns.
+
+            Place bacon in a heavy skillet and cook over medium-high heat, turning occasionally, until crisp, 10 to 12 minutes. Drain bacon slices on paper towels. Set the skillet aside, reserving grease.
+
+            Mix ground beef, Worcestershire sauce, and steak seasoning together in a large bowl; do not overmix. Form into 4 patties. Make a thumbprint in the middle of each patty to keep it from shrinking as it cooks.
+
+            Grill patties on the preheated grill until preferred doneness, about 6 minutes per side. An instant-read thermometer inserted into the center should read at least 160 degrees F (71 degrees C). Top each burger with 2 slices bacon and a Cheddar cheese slice; close the grill lid until cheese is melted, about 1 minute. Remove patties from the grill.
+
+            Place buns on the grill, buttered-side down, and cook until browned, about 1 minute. Remove from the grill. Place 1 patty on the bottom half of each bun.
+
+            Reheat the bacon grease in the skillet over medium-high heat. Crack eggs into the hot skillet and fry until whites are cooked but yolk is still runny, about 4 minutes. Immediately place 1 egg on top of each patty. Top with lettuce, onion, avocado, and remaining buns.
