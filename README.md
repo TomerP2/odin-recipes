@@ -7,7 +7,7 @@ Content:
     Main page content:
     ...
 
-    The recipe pages should have the following content:
+    Each recipe page should have the following content:
 
         - An image of the finished dish under the h1 heading that you added earlier. You can find images of the dish on google or the site recipe site we linked to earlier.
 
