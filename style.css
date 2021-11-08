@@ -1,0 +1,45 @@
+* {
+    background-color: rgb(121, 173, 177);
+    color: rgb(219, 219, 219);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#title {
+    text-align: center;
+    font-size: 40px;
+}
+
+#recipes-list {
+    margin-left: 5%;
+}
+
+.img.main {
+    border: 3px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: auto;
+}
+
+p,
+ol,
+ul {
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 20x;
+}
+
+.description {
+    margin-left: 0%;
+    margin-right: 0%;
+    text-align: center;
+    background-color: grey;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    margin-left: 10%;
+    color: rgb(53, 53, 53)
+}
